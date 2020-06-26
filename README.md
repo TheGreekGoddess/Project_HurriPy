@@ -19,7 +19,7 @@ Data Cleanup: Retrieved data in 2018 that was NaN and that data was dropped usin
 Data Analysis/Data Visualization: Bar graphs were used to analyze the comparison of 2016 and 2018 demographics to see if cyclones impacted population, poverty count, and median home value.
 
 #### Question 3: Does a tropical storm effect the temperature on land?
-Data exploration: Data was retrieved using NOAA API for weather stations in the landfall area of each hurricane
+*Data exploration*: Data was retrieved using NOAA API for weather stations in the landfall area of each hurricane
 Data Cleanup: Retrieved data had "SNOW" column, which indicates snow precipitation measured in that weather station. That column was discarded from the dataset.
 Data Analysis: The maximum and minimum temperatures, precipitation from every station were grouped according to the dates - 5 days before and 6 days after the landfall.
 Data Visualization: Line plots were made for precipitation, maximum and minimum temperatures were built to see the changes in those parameters during hurricane landfall.
@@ -33,6 +33,4 @@ https://www.flhurricane.com/
 
 
 ### API keys requested from:
-Census
-Google maps
-NOAA
+Census | Google maps | NOAA
