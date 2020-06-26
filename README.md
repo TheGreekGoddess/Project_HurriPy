@@ -1,4 +1,4 @@
-![title_illustration](Output_Data/Storms_2017.png)
+![title_illustration](Output_Data/HurriPy_cartoon.jpg)
 
 ## Project 1 - Data Analysis &amp; Visualization Boot Camp - McCombs School of Business, University of Texas, USA
 
