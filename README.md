@@ -8,7 +8,7 @@ A group of world-renowned data scientists took upon themselves to analyze the co
 
 #### Question 1: How do we understand tropical storms, cyclones, and hurricanes?
 **Data exploration**: Data was retrieved from the National Hurricane Center's website (https://www.nhc.noaa.gov/data/#hurdat)  
-**Data Cleanup**: Data was scrubbed in Excel to assign a unique storm name, type and Julian to each of the 52k rows so we could understand onset and duration of each individual storm.
+**Data Cleanup**: Data was scrubbed in Excel to assign a unique storm name, type and Julian to each of the 52k rows to understand onset and duration of each individual storm.
 **Data Analysis**: The cleaned .csv data was imported into Jupyter Notebooks as Pandas DataFrames. Certain data types were converted from float to integer. Bob and Kevin shared a new approach on setting tick locations for the bar graph. We used:dropna to omit NaN data, drop to filter DataFrames, and groupby to cluster data by cyclone type and the corresponding decade
 **Data Visualization**:A stacked bar graph to understand the split between named vs. unnamed cyclones since 1950
 	                 A bar graph to plot the duration of named cyclones with the decades as tick location markers
@@ -35,4 +35,4 @@ https://www.flhurricane.com/
 ## API keys requested from:
 Census | Google maps | NOAA
 
-Presented on 2020.06.25
+#### Presented on 2020.06.25
