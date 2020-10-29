@@ -1,8 +1,20 @@
 ![title_illustration](Output_Data/HurriPy_cartoon.jpg)
 
-## Project 1 - Data Analysis &amp; Visualization Boot Camp - McCombs School of Business, University of Texas, USA
+## Project 1 - Data Analysis &amp; Visualization Boot Camp - McCombs School of Business, University of Texas, USA <!-- omit in toc -->
 
 A group of world-renowned data scientists took upon themselves to analyze the correlations between cyclones and impacting factors.
+
+
+## Table of Contents <!-- omit in toc -->
+
+- [Project 1 - Data Analysis &amp; Visualization Boot Camp - McCombs School of Business, University of Texas, USA](#project-1---data-analysis--visualization-boot-camp---mccombs-school-of-business-university-of-texas-usa)
+	- [The study hopes to provide information regarding:](#the-study-hopes-to-provide-information-regarding)
+		- [Question 1: How do we understand tropical storms, cyclones, and hurricanes?](#question-1-how-do-we-understand-tropical-storms-cyclones-and-hurricanes)
+		- [Question 2: What are the demographics of an area before and after a storm?](#question-2-what-are-the-demographics-of-an-area-before-and-after-a-storm)
+		- [Question 3: Does a tropical storm effect the temperature on land?](#question-3-does-a-tropical-storm-effect-the-temperature-on-land)
+- [Data sets used:](#data-sets-used)
+- [API keys requested from:](#api-keys-requested-from)
+		- [Presented on 2020.06.25](#presented-on-20200625)
 
 ### The study hopes to provide information regarding:
 
